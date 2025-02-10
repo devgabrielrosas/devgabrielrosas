@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielrosas&hide_progress=true)
 
-## Tecnologias que eu domino
+## Tecnologias que eu domino:
 
 <div style="display inline-block"><br/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
