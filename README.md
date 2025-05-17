@@ -4,7 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielrosas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_devgabrielrosas/) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielrosas&hide_progress=true&theme=dark)
+<div display="inline-block">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielrosas&layout=compact&theme=dark)
+</div>
 
 ## Tecnologias que eu domino:
 
@@ -16,4 +19,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
- Sou estudante de Engenharia de Software na IFPB (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba), tenho grande interesse na área de Tecnologia da Informção e sou autodidata da programação e desenvolvimento de softwares.
+## Sobre:
+
+ Sou **Desenvolvedor Full-Stack**, trabalho na criação de programas completos e estáveis, com interfaces atrativas e responsivas. Faço bacharelado em **Engenharia de Software** no IFPB (Instituto Federal da Paraíba), tenho grande interesse na área de **Tecnologia da Informação** e busco sempre aprimorar meu conhecimentos na área da programação.
