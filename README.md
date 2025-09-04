@@ -23,4 +23,4 @@
 
 ## Sobre:
 
- Sou **Desenvolvedor Full-Stack**, trabalho na criação de programas completos e estáveis, com interfaces atrativas e responsivas. Faço bacharelado em **Engenharia de Software** no IFPB (Instituto Federal da Paraíba), tenho grande interesse na área de **Tecnologia da Informação** e busco sempre aprimorar meu conhecimentos na área da programação.
+ Sou **Desenvolvedor Full-Stack**, trabalho na criação de programas completos e estáveis, com interfaces atrativas e responsivas, além de códigos eficientes. Faço bacharelado em **Engenharia de Software** no IFPB (Instituto Federal da Paraíba), tenho grande interesse na área de **Tecnologia da Informação** e busco sempre aprimorar meu conhecimentos na área da programação e programação competitiva.
