@@ -20,4 +20,4 @@
 
 ## Sobre:
 
- Sou **Desenvolvedor** e faço bacharelado em **Engenharia de Software** no Instituto Federal da Paraíba (IFPB), tenho grande interesse na área de **Tecnologia da Informação** e busco sempre aprimorar meus conhecimentos na área da programação e competitições relacionadas.
+ Sou **Desenvolvedor** e faço bacharelado em **Engenharia de Software** no Instituto Federal da Paraíba (IFPB), tenho grande interesse na área de **Tecnologia da Informação** e busco sempre aprimorar meus conhecimentos na área da programação e competições relacionadas.
