@@ -6,8 +6,7 @@
 
 <div display="inline-block">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielrosas&layout=compact&theme=dark)
-</div>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielrosas&layout=compact&theme=dark)-->
 
 ## Tecnologias:
 
